@@ -18,7 +18,7 @@ For Silverstripe 4.0 to 4.1 use [this branch](https://github.com/firebrandhq/sil
 **Run the following command:**
 
 ```sh
-composer require seppzzz/silverstripe-phonelink "^2.0"
+composer require seppzzz/silverstripe-phonelink "dev-master"
 ```
 
 ## Screenshots
