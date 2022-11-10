@@ -1,8 +1,8 @@
 {
-	"name": "firebrandhq/silverstripe-phonelink",
+	"name": "seppzzz/silverstripe-phonelink",
 	"description": "Adds a telephone number option to TinyMCE's Insert Link dropdown for creating/editing tel: links using native SilverStripe 4 modals",
 	"type": "silverstripe-vendormodule",
-	"homepage": "https://github.com/firebrandhq/silverstripe-phonelink",
+	"homepage": "https://github.com/seppzzz/silverstripe-phonelink",
 	"keywords": [
 		"silverstripe",
 		"cms",
@@ -20,15 +20,12 @@
 			"email": "developers@firebrand.nz"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/firebrandhq/silverstripe-phonelink/issues"
-	},
 	"require": {
 		"silverstripe/cms": "^4.4"
 	},
 	"autoload": {
 		"psr-4": {
-			"Firebrand\\PhoneLink\\": "src/"
+			"seppzzz\\PhoneLink\\": "src/"
 		}
 	},
 	"extra": {
