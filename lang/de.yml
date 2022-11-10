@@ -1,0 +1,8 @@
+de:
+  Firebrand\PhoneLink\Forms\EditorPhoneLinkFormFactory:
+    PHONE: 'Telefon Nummer'
+    LINKDESCR: 'Link Beschreibung'
+    LINKTEXT: 'Link Text'
+  Admin:
+    LINKLABEL_PHONE: 'Telefonnummer verlinken'
+    LINK_PHONE: 'Telefonnummer verlinken'
