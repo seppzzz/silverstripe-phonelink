@@ -30,7 +30,8 @@
 	},
 	"extra": {
 		"expose": [
-			"client/dist"
+			"client/dist",
+			"client/src"
 		]
 	},
 	"prefer-stable": true,
