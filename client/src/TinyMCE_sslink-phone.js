@@ -100,6 +100,7 @@ jQuery.entwine('ss', ($) => {
             const attributes = this._super(data);
 
             let href = '';
+            let c = 'phone-link';
 
             let phone = attributes.href.replace(/^tel:/, '');
 
@@ -107,6 +108,7 @@ jQuery.entwine('ss', ($) => {
                 href = `tel:${phone}`;
             }
             attributes.href = href;
+            attributes.class = c;
 
             delete attributes.target;
 
