@@ -1,5 +1,11 @@
 # SilverStripe 4 Phone Link Module 
 
+This is a Fork from firebrandhq/silverstripe-phonelink 
+
+This Fork has a css-class (.phone-link) added to the created link.
+
+This Fork has added a German translation.
+
 Silverstripe 4 module adding the possibility to create / edit Phone number links using the TinyMCE editor (tel: links).
 
 It uses the native SilverStripe 4 React modals and seamlessly integrates in the CMS.
