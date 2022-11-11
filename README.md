@@ -23,15 +23,10 @@ composer require seppzzz/silverstripe-phonelink "dev-master"
 
 ## Screenshots
 
-![Add link using dropdown](docs/images/add_link_screen_1.png "Add link using dropdown")
-
-![Configure link](docs/images/add_link_screen_2.png "Configure link")
-
-![Link added to editor](docs/images/add_link_screen_3.png "Link added to editor")
 
 ## Translations
 
-English and French are provided with the module.
+English and French and German are provided with the module.
 
 ## Contributing
 
