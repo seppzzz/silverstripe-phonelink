@@ -1,0 +1,14 @@
+---
+Name: phonelinkmodule
+After:
+  - '#cmsmodals'
+---
+SilverStripe\Admin\ModalController:
+  extensions:
+    - Seppzzz\PhoneLink\Forms\PhoneLinkModalExtension
+SilverStripe\Admin\LeftAndMain:
+  extensions:
+    - Seppzzz\PhoneLink\Extensions\LeftAndMainExtension
+#  extra_requirements_i18n_javascript:
+  extra_requirements_javascript:
+    - 'seppzzz/silverstripe-phonelink: client/src/lang/de.js'

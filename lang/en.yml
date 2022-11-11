@@ -1,0 +1,5 @@
+en:
+  Seppzzz\PhoneLink\Forms\EditorPhoneLinkFormFactory:
+    PHONE: 'Phone Number'
+    LINKDESCR: 'Link description'
+    LINKTEXT: 'Link text'
