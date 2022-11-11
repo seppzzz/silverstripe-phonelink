@@ -29,6 +29,9 @@ composer require seppzzz/silverstripe-phonelink "dev-master"
 
 ## Screenshots
 
+![Add link using dropdown](docs/images/phone-link_1.png "Add link using dropdown")
+
+![Configure link](docs/images/phone-link_2.png "Configure link")
 
 ## Translations
 
