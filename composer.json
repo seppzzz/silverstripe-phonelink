@@ -28,7 +28,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Firebrand\\PhoneLink\\": "src/"
+			"Seppzzz\\PhoneLink\\": "src/"
 		}
 	},
 	"extra": {
